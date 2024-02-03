@@ -1,0 +1,9 @@
+langchain==0.0.339
+streamlit
+openai
+pypdf
+faiss-cpu
+accelerate
+python-dotenv
+tiktoken
+chromadb
